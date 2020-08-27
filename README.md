@@ -6,4 +6,4 @@ About Me: I am a freshman at William and Mary interested in studying Neuroscienc
 # Exercise 1.1 Running Boy
 ![](runningboy.md.png)
 # Exercise 1.2 Person's Path 
-![](personspath.md.png)
+![](PersonsPath.md.png)

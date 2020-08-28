@@ -10,5 +10,5 @@ This plot shows a linear path of movement. The plot contains values of x and y u
 ![](PersonsPath.md.png)
 This is a more challenging plot. The plot contains x and y values up to 100, and shows different shapes to represent homes, small trees, and large trees. A spline is used to show the path of someone traveling to three randomly selected houses in the plot. 
 # Challenge Question 1 Traveling Salesman
-
+![](Challengeq.md.png)
 This is the most challenging plot I have created with R. This plot contains values of x and y up to 1000, and contains 50 houses, 40 small trees, and 12 large trees. A dashed spline shows the path of a traveling salesman between 7 randomly selected houses. 

@@ -12,3 +12,10 @@ This is a more challenging plot. The plot contains x and y values up to 100, and
 # Challenge Question 1 Traveling Salesman
 ![](Challengeq.md.png)
 This is the most challenging plot I have created with R. This plot contains values of x and y up to 1000, and contains 50 houses, 40 small trees, and 12 large trees. A dashed spline shows the path of a traveling salesman between 7 randomly selected houses. 
+# Project 1
+![](FourYearCollegeAppTotals.png)
+This graph shows the total applications recieved by each institution in the US that offers a minumum of a four year degree, categorized by region and state. 
+![](DocCollegeAppTotals.png)
+This graph shows the total applications recieved by each institution in the US that offers a minumum of a doctorate degree, categorized by region and state. 
+# Data Science Reflection 1
+![]

@@ -20,6 +20,6 @@ This graph shows the total applications recieved by each institution in the US t
 ![](Project1Part2.png)
 This graph shows the growth of each of the 52 Primary US Subdivisions using census data from 2000 to 2014. 
 # Data Science Reflection 1
-![](Data Science in Breast Cancer Diagnosis.pdf)
+![](Data Science in Breast Cancer Diagnosis.docx)
 
 

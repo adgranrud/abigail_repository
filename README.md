@@ -16,7 +16,9 @@ This is the most challenging plot I have created with R. This plot contains valu
 ![](FourYearCollegeAppTotals.png)
 This graph shows the total applications recieved by each institution in the US that offers a minumum of a four year degree, categorized by region and state. 
 ![](DocCollegeAppTotals.png)
-This graph shows the total applications recieved by each institution in the US that offers a minumum of a doctorate degree, categorized by region and state. 
+This graph shows the total applications recieved by each institution in the US that offers a minumum of a doctorate degree, categorized by region and state.
+![](DataProject1Part2.pdf)
+This graph shows the growth of each of the 52 Primary US Subdivisions using census data from 2000 to 2014. 
 # Data Science Reflection 1
 ![](Data Science in Breast Cancer Diagnosis.pdf)
 

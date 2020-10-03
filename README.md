@@ -23,6 +23,11 @@ This graph shows the growth of each of the 52 Primary US Subdivisions using cens
 [Link to Reflection 1](https://docs.google.com/document/d/1Tv5lWOSASYQ3et3hxFZEIWSp-7dlirjyPEA17FQsRcY/edit?usp=sharing)
 # Project 2
 ![](DataProject2Deliverable1.png)
+This graph shows the abosolute population increase between 2010 and 2014 of all 50 United States, District of Columbia, and Puerto Rico. 
 ![](DataProject2Deliverable2.png)
-
+This graph shows the average population growth between 2010 and 2014 of all 50 United States, District of Columbia, and Puerto Rico.  
+![](DataProject2Deliverable3.png)
+This is a combination of graphs that show the projected values for four music industry stocks based on the previous values of the Spotify(SPOT) stock. The plot predicts the values of Tencent Music Entertainment(TME), Sirius XM(SIRI), Tencent Holdings Limited(TCEHY), and Avid Technology(AVID) based on Spotify's stock price. The trend is loosely positive, with most predicted values increasing when Spotify's values increase. 
+![](DataProject2Deliverable4.png)
+This model shows the numerical data used to create the previous plot. 
 

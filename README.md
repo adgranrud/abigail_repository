@@ -30,4 +30,8 @@ This graph shows the average population growth between 2010 and 2014 of all 50 U
 This is a combination of graphs that show the projected values for four music industry stocks based on the previous values of the Spotify(SPOT) stock. The plot predicts the values of Tencent Music Entertainment(TME), Sirius XM(SIRI), Tencent Holdings Limited(TCEHY), and Avid Technology(AVID) based on Spotify's stock price. The trend is loosely positive, with most predicted values increasing when Spotify's values increase. 
 ![](DataProject2Deliverable4.png)
 This model shows the numerical data used to create the previous plot. 
+![](DataProject2Deliverable5.png)
+This bar plot shows the returns of investment of $10,000 in a stock portfolio of six stocks. I researched the fastest growing stocks currently, and they included Chegg(CHGG), Take Two Interactive Software(TTWO), Nektar Therapeutics(NKTR), Etsy(ETSY), Sodastream Inc.(SODA), Scientific Games Corporation(SGMS). The investment returns plot shows an above zero trend, meaning that the returns of investment will be positive. 
+![](DataProject2Deliverable6.png)
+This line graph shows the growth of the $10000 investment portfolio of the previous six stocks. The line shows a great positive trend, meaning that the investment was successful and increased more than 150% during the investment period. 
 

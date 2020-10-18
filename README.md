@@ -32,8 +32,17 @@ This model shows the numerical data used to create the previous plot.
 This bar plot shows the returns of investment of $10,000 in a stock portfolio of six stocks. I researched the fastest growing stocks currently, and they included Chegg(CHGG), Take Two Interactive Software(TTWO), Nektar Therapeutics(NKTR), Etsy(ETSY), Sodastream Inc.(SODA), Scientific Games Corporation(SGMS). The investment returns plot shows an above zero trend, meaning that the returns of investment will be positive. 
 ![](DataProject2Deliverable6.png)
 This line graph shows the growth of the $10000 investment portfolio of the previous six stocks. The line shows a great positive trend, meaning that the investment was successful and increased more than 150% during the investment period. 
+# Project 3
+![](honduras.png)
+This is a map of Honduras, created using data from GADM. This map shows the international boundary of the country, and two levels of administrative boundaries. Each department, which is similar to a state, is labeled and the boundary is shown in teal, and each county is shown with light grey boundaries. 
+![](cortes.png)
+This is a map of Honduras' most populous department, Cortés. Each county is labeled. 
+
 # Data Science Reflections
+## Reflection 3: Data Science in Breast Cancer Diagnosis
 [Link to Reflection 1](https://docs.google.com/document/d/1Tv5lWOSASYQ3et3hxFZEIWSp-7dlirjyPEA17FQsRcY/edit?usp=sharing)
+## Reflection 2: Crime Prediction
 [Link to Reflection 2](https://docs.google.com/document/d/1eLRuYnOsroqz77QAhOEgFLkgjrjpN_hSVUfe5XhSs9s/edit?usp=sharing)
+## Reflection 3: Genetic Mapping With Data Science
 [Link to Reflection 3](https://docs.google.com/document/d/1vJmidIM8XwzohHQeAf4T239g5uMqVRO74rTNo_BNp7s/edit?usp=sharing)
 

@@ -19,8 +19,6 @@ This graph shows the total applications recieved by each institution in the US t
 This graph shows the total applications recieved by each institution in the US that offers a minumum of a doctorate degree, categorized by region and state.
 ![](Project1Part2.png)
 This graph shows the growth of each of the 52 Primary US Subdivisions using census data from 2000 to 2014. 
-# Data Science Reflection 1
-[Link to Reflection 1](https://docs.google.com/document/d/1Tv5lWOSASYQ3et3hxFZEIWSp-7dlirjyPEA17FQsRcY/edit?usp=sharing)
 # Project 2
 ![](DataProject2Deliverable1.png)
 This graph shows the abosolute population increase between 2010 and 2014 of all 50 United States, District of Columbia, and Puerto Rico. 
@@ -34,4 +32,8 @@ This model shows the numerical data used to create the previous plot.
 This bar plot shows the returns of investment of $10,000 in a stock portfolio of six stocks. I researched the fastest growing stocks currently, and they included Chegg(CHGG), Take Two Interactive Software(TTWO), Nektar Therapeutics(NKTR), Etsy(ETSY), Sodastream Inc.(SODA), Scientific Games Corporation(SGMS). The investment returns plot shows an above zero trend, meaning that the returns of investment will be positive. 
 ![](DataProject2Deliverable6.png)
 This line graph shows the growth of the $10000 investment portfolio of the previous six stocks. The line shows a great positive trend, meaning that the investment was successful and increased more than 150% during the investment period. 
+# Data Science Reflections
+[Link to Reflection 1](https://docs.google.com/document/d/1Tv5lWOSASYQ3et3hxFZEIWSp-7dlirjyPEA17FQsRcY/edit?usp=sharing)
+[Link to Reflection 2](https://docs.google.com/document/d/1eLRuYnOsroqz77QAhOEgFLkgjrjpN_hSVUfe5XhSs9s/edit?usp=sharing)
+[Link to Reflection 3](https://docs.google.com/document/d/1vJmidIM8XwzohHQeAf4T239g5uMqVRO74rTNo_BNp7s/edit?usp=sharing)
 

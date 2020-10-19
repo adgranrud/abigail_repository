@@ -35,7 +35,7 @@ This line graph shows the growth of the $10000 investment portfolio of the previ
 # Project 3
 ![](honduras.png)
 This is a map of Honduras, created using data from GADM. This map shows the international boundary of the country, and two levels of administrative boundaries. Each department, which is similar to a state, is labeled and the boundary is shown in teal, and each county is shown with light grey boundaries. 
-![](cortes.png)
+![](Cortes.png)
 This is a map of Honduras' most populous department, Cortés. Each county is labeled. 
 # Data Science Reflections
 ## Reflection 3: Data Science in Breast Cancer Diagnosis

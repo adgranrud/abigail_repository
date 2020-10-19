@@ -37,6 +37,8 @@ This line graph shows the growth of the $10000 investment portfolio of the previ
 This is a map of Honduras, created using data from GADM. This map shows the international boundary of the country, and two levels of administrative boundaries. Each department, which is similar to a state, is labeled and the boundary is shown in teal, and each county is shown with light grey boundaries. 
 ![](Cortes.png)
 This is a map of Honduras' most populous department, Cortés. Each county is labeled. 
+![](Fplot.png)
+This is a map showing Honduras and its two most populous counties, Cortés and Francisco Morazán. Francisco Morazán is home to the capital of Honduras and its most populous city, Tegucigulpa. 
 # Data Science Reflections
 ## Reflection 3: Data Science in Breast Cancer Diagnosis
 [Link to Reflection 1](https://docs.google.com/document/d/1Tv5lWOSASYQ3et3hxFZEIWSp-7dlirjyPEA17FQsRcY/edit?usp=sharing)

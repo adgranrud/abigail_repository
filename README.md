@@ -40,7 +40,7 @@ This is a map of Honduras' most populous department, Cortés. Each county is lab
 ![](Fplot.png)
 This is a map showing Honduras and its two most populous counties, Cortés and Francisco Morazán. Francisco Morazán is home to the capital of Honduras and its most populous city, Tegucigulpa. 
 # Project 4 
-![](honduras.mp4)
+![](honduras.gif)
 This is a 3-Dimensional map showing the population of each level 2 administrative subdivision in Honduras. 
 # Data Science Reflections
 ## Reflection 3: Data Science in Breast Cancer Diagnosis

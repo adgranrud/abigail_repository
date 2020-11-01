@@ -46,4 +46,6 @@ This is a map showing Honduras and its two most populous counties, Cortés and F
 [Link to Reflection 2](https://docs.google.com/document/d/1eLRuYnOsroqz77QAhOEgFLkgjrjpN_hSVUfe5XhSs9s/edit?usp=sharing)
 ## Reflection 3: Genetic Mapping With Data Science
 [Link to Reflection 3](https://docs.google.com/document/d/1vJmidIM8XwzohHQeAf4T239g5uMqVRO74rTNo_BNp7s/edit?usp=sharing)
+## Reflection 4: The Internet of Things
+[Link to Reflection 4](https://docs.google.com/document/d/1HqYcnBRRS-Cxy22PHlW0HRlYjWPaG_HJLOoXwe5Xv6w/edit?usp=sharing)
 

@@ -42,6 +42,11 @@ This is a map showing Honduras and its two most populous counties, Cortés and F
 # Project 4 
 ![](honduras.gif)
 This is a 3-Dimensional map showing the population of each level 2 administrative subdivision in Honduras. 
+# Project 5
+![](Project5Histogram1.png)
+This histogram shows a bar plot for the population of Honduras in each subdivision and a line graph showing the density of the subdivisions. Layering the two graphs shows the relationship between the measured numbers and density trend, as both graphs have similar area. 
+![](Project5Histogram2.png)
+This histogram shows a bar plot with measured values for the night time lights in Honduras and a line graph showing the trend. The layering of the two graphs shows that they have the same skew and similar area. 
 # Data Science Reflections
 ## Reflection 3: Data Science in Breast Cancer Diagnosis
 [Link to Reflection 1](https://docs.google.com/document/d/1Tv5lWOSASYQ3et3hxFZEIWSp-7dlirjyPEA17FQsRcY/edit?usp=sharing)

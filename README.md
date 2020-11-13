@@ -56,4 +56,6 @@ This histogram shows a bar plot with measured values for the night time lights i
 [Link to Reflection 3](https://docs.google.com/document/d/1vJmidIM8XwzohHQeAf4T239g5uMqVRO74rTNo_BNp7s/edit?usp=sharing)
 ## Reflection 4: The Internet of Things
 [Link to Reflection 4](https://docs.google.com/document/d/1HqYcnBRRS-Cxy22PHlW0HRlYjWPaG_HJLOoXwe5Xv6w/edit?usp=sharing)
+## Final Reflection: Data Science Knowledge Creation
+[Link to Final Reflection](https://docs.google.com/document/d/1AM0DUdFp-3cILds0KcZG456NSdLoVX9NrQNMWFe0UAU/edit?usp=sharing)
 

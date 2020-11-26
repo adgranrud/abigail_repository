@@ -47,6 +47,13 @@ This is a 3-Dimensional map showing the population of each level 2 administrativ
 This histogram shows a bar plot for the population of Honduras in each subdivision and a line graph showing the density of the subdivisions. Layering the two graphs shows the relationship between the measured numbers and density trend, as both graphs have similar area. 
 ![](Project5Histogram2.png)
 This histogram shows a bar plot with measured values for the night time lights in Honduras and a line graph showing the trend. The layering of the two graphs shows that they have the same skew and similar area. 
+# Final Project
+![](cholu_urbandots.png)
+This plot shows one of Honduras' municipalities, Choluteca, and its most populous urbanized areas. 
+![](CholutecaRoadsHealthSchoolsFINAL.png)
+This plot shows Choluteca's urbanized areas, main roads in red, healthcare faclilties in blue, and schools in green. 
+![](choludensity.png)
+This is a 3D plot showing the topography of Choluteca and its urban areas. 
 # Data Science Reflections
 ## Reflection 3: Data Science in Breast Cancer Diagnosis
 [Link to Reflection 1](https://docs.google.com/document/d/1Tv5lWOSASYQ3et3hxFZEIWSp-7dlirjyPEA17FQsRcY/edit?usp=sharing)
